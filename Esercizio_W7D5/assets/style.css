@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("https://t4.ftcdn.net/jpg/05/26/04/61/360_F_526046144_K08gpyUOcuSDB6yd90FXarmvhTH4RHut.jpg");
+	width: 100%;
+	max-height: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.navbar {
+	position: relative;
+	z-index: 5000;
+}
